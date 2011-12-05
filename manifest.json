@@ -1,0 +1,12 @@
+{
+   "description": "Pin any image to pinterest",
+   "icons": {
+      "16": "pinterest-16.png",
+      "128": "pinterest-128.png"
+   },
+   "background_page": "background.html",
+   "name": "Pinterest quick add",
+   "permissions": [ "contextMenus", "tabs", "http://*/*", "https://*/*" ],
+   "update_url": "http://metaatem.net/exts/update.php",
+   "version": "1.0.3"
+}
