@@ -10,3 +10,8 @@ Just [install](https://github.com/downloads/kastner/pin_it/pinterest.crx) the ex
 ## Note
 
 You have to be signed in to Pinterest for this to work ;).
+
+
+## Blog Post!
+
+I [blogged](http://metaatem.net/2011/12/05/quick-hack-pinterest-chrome-extension) about this little thing!
