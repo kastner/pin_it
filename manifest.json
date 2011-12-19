@@ -8,5 +8,5 @@
    "name": "Pinterest quick add",
    "permissions": [ "contextMenus", "tabs", "http://*/*", "https://*/*" ],
    "update_url": "http://metaatem.net/exts/update.php",
-   "version": "1.0.3"
+   "version": "1.0.4"
 }
